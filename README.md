@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/raj_pr_v" target="blank"><img src="https://img.shields.io/twitter/follow/raj_pr_v?logo=twitter&style=for-the-badge" alt="raj_pr_v" /></a> </p>
 
-- 🌱 I’m currently learning **React and trying to explore more aspects in web development.**
+- 🌱 I’m currently learning **React and trying to explore more aspects of web development.**
 
 - 👨‍💻 All of my projects are available at [* *](* *)
 
